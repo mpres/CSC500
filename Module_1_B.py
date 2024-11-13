@@ -18,9 +18,9 @@ while number2 == 0:
 answer = number1 * number2
 
 #Print out the answer for Multiplication
-print(f'Multipling {number1} and {number2} equals {answer}')
+print(f'Multiplying {number1} and {number2} equals {answer}')
 
-#Calcuate the answer for Division
+#Calculate the answer for Division
 answer = number1 / number2
 
 print(f'Dividing {number1} by {number2} equals {answer}')
