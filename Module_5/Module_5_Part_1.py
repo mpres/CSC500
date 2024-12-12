@@ -32,7 +32,7 @@ print("")
 for m in range(months):
   rainfall_for_month_of_X = weather_results[m::12]
   rainfall_avg = sum(rainfall_for_month_of_X)/len(rainfall_for_month_of_X)
-  rainfall_avg = round(rainfall_age,2)
+  rainfall_avg = round(rainfall_avg,2)
   print(f"Rainfall average for {m_dict[m]} was {rainfall_avg} inches")
 
 
