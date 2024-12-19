@@ -1,0 +1,123 @@
+Script started on Wed Dec 18 20:38:12 2024
+[1m[7m%[27m[1m[0m                                                                                             ]7;file://MacBook-Pro.local/Users/mpresley84/Desktop/CSC500/Module_6[0m[27m[24m[J(base) mpresley84@MacBook-Pro Module_6 % [K[?2004hppython Module_6_Shopping_Cart.py[1m [0m[0m [?2004l
+Please enter the Customer Name Micahel    hael
+Please enter the Date of the purchase [format: March 6 2024] Jan 29 2024
+             MENU             
+     a - Add item to cart     
+  r - Remove item from cart   
+   c - Change item quantity   
+i - Output items' descriptions
+   o - Output shopping cart   
+           q - Quit           
+       Choose an option       
+a
+[H[2J[3JPlease enter the name of the new item Soap
+Please enter the description for the new item blue and fresh
+Please enter the quantity of the items purchased 1
+Please enter the price for the new item 15
+             MENU             
+     a - Add item to cart     
+  r - Remove item from cart   
+   c - Change item quantity   
+i - Output items' descriptions
+   o - Output shopping cart   
+           q - Quit           
+       Choose an option       
+a
+[H[2J[3JPlease enter the name of the new item s Shoes
+Please enter the description for the new item black       Black
+Please enter the quantity of the items purchased 2
+Please enter the price for the new item 40
+             MENU             
+     a - Add item to cart     
+  r - Remove item from cart   
+   c - Change item quantity   
+i - Output items' descriptions
+   o - Output shopping cart   
+           q - Quit           
+       Choose an option       
+a
+[H[2J[3JPlease enter the name of the new item shirt
+Please enter the description for the new item old
+Please enter the quantity of the items purchased 1
+Please enter the price for the new item 5
+             MENU             
+     a - Add item to cart     
+  r - Remove item from cart   
+   c - Change item quantity   
+i - Output items' descriptions
+   o - Output shopping cart   
+           q - Quit           
+       Choose an option       
+i
+[H[2J[3JMichael's Shopping Cart - Jan 29 2024
+Item Descriptions
+Soap: blue and fresh
+Shoes: Black
+shirt: old
+             MENU             
+     a - Add item to cart     
+  r - Remove item from cart   
+   c - Change item quantity   
+i - Output items' descriptions
+   o - Output shopping cart   
+           q - Quit           
+       Choose an option       
+o
+[H[2J[3JMichael's Shopping Cart - Jan 29 2024
+Number of Items: 4
+Soap 1 @ $15.00 = $15.00
+Shoes 2 @ $40.00 = $80.00
+shirt 1 @ $5.00 = $5.00
+Total: $100.00
+             MENU             
+     a - Add item to cart     
+  r - Remove item from cart   
+   c - Change item quantity   
+i - Output items' descriptions
+   o - Output shopping cart   
+           q - Quit           
+       Choose an option       
+r
+[H[2J[3JEnter the name of the item you would like to remove shirt     shirt
+             MENU             
+     a - Add item to cart     
+  r - Remove item from cart   
+   c - Change item quantity   
+i - Output items' descriptions
+   o - Output shopping cart   
+           q - Quit           
+       Choose an option       
+i o
+[H[2J[3JMichael's Shopping Cart - Jan 29 2024
+Number of Items: 3
+Soap 1 @ $15.00 = $15.00
+Shoes 2 @ $40.00 = $80.00
+Total: $95.00
+             MENU             
+     a - Add item to cart     
+  r - Remove item from cart   
+   c - Change item quantity   
+i - Output items' descriptions
+   o - Output shopping cart   
+           q - Quit           
+       Choose an option       
+q h
+[H[2J[3JSorry, the input h is not a valid option
+             MENU             
+     a - Add item to cart     
+  r - Remove item from cart   
+   c - Change item quantity   
+i - Output items' descriptions
+   o - Output shopping cart   
+           q - Quit           
+       Choose an option       
+q
+[H[2J[3J[1m[7m%[27m[1m[0m                                                                                             ]7;file://MacBook-Pro.local/Users/mpresley84/Desktop/CSC500/Module_6[0m[27m[24m[J(base) mpresley84@MacBook-Pro Module_6 % [K[?2004hw eexit[?2004l
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+Script done on Wed Dec 18 20:40:29 2024
