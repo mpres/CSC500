@@ -1,4 +1,3 @@
-#Mpresley 1/1/25
 #Michael Presley 12/27/24 Critical Thinking Section
 #  set the Instructors dictionary
 
@@ -11,9 +10,14 @@ Room_Number_dict = {"CSC101": "3004", "CSC102": "4501", "CSC103": "6755", "NET11
 Meeting_time_dict = {"CSC101": "8:00 a.m.", "CSC102": "9:00 a.m.", "CSC103": "10:00 a.m.", "NET110":"11:00 a.m.", "COM241":"1:00 p.m."}
 
 #Capture Errors
-course_number = input("Please Enter the a Course Number to learn more about that course:")
+#Create a while loop
+course_number = ""
+while course_number != 'q' and course_number != 'quit':
+  course_number = input("Please Enter the a Course Number to learn more about that course or enter 'q' to quit:").upper()
 
-try:
-  print(f"Course Room Number is: {Room_Number_dict[course_number]}, the Instructor is {Instructors_dict[course_number]} and the Meeting time is {Meeting_time_dict[course_number]}") 
-except:
-  print(course_number, " is not a registered course")
+  try:
+    if course_number == 'Q' or course_number == 'QUIT':
+      break      
+    print(f"Course Room Number is: {Room_Number_dict[course_number]}, the Instructor is {Instructors_dict[course_number]} and the Meeting time is {Meeting_time_dict[course_number]}")
+  except:
+    print(course_number, " is not a registered course")
