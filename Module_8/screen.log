@@ -1,0 +1,212 @@
+Script started on Tue Jan  7 21:46:02 2025
+[1m[7m%[27m[1m[0m                                                                                            ]7;file://MacBook-Pro.local/Users/mpresley84/Desktop/CSC500/Module_8[0m[27m[24m[J(base) mpresley84@MacBook-Pro Module_8 % [K[?2004hppython Module_8_Milestone.py[1m [0m[0m [?2004l
+--------------------------
+Program for Milestone 1
+--------------------------
+Item 1
+Please enter item name s blueberry
+Please the enter item price 2
+Please the enter item quantity 3
+Item 2
+Please enter item name strawberry
+Please the enter item price 1
+Please the enter item quantity 4
+TOTAL COST
+blueberry 3 @ $2.0 = $6.0
+strawberry 4 @ $1.0 = $4.0
+Total: $10.0
+--------------------------
+Program Milestone 2 and 3
+--------------------------
+Please enter the Customer Name Micahel      hael P
+Please enter the Date of the purchase [format: March 6 2024] Jan 24 2024
+-------------------------------------
+   Customer Name: Michael P   
+  Today's Date: Jan 24 2024   
+-------------------------------------
+             MENU             
+     a - Add item to cart     
+  r - Remove item from cart   
+   c - Change item quantity   
+i - Output items' descriptions
+   o - Output shopping cart   
+           q - Quit           
+       Choose an option       
+a
+[H[2J[3JPlease enter the name of the new item Ham
+Please enter the description for the new item Fres    fresh
+Please enter the quantity of the items purchased 2
+Please enter the price for the new item 10
+             MENU             
+     a - Add item to cart     
+  r - Remove item from cart   
+   c - Change item quantity   
+i - Output items' descriptions
+   o - Output shopping cart   
+           q - Quit           
+       Choose an option       
+a
+[H[2J[3JPlease enter the name of the new item Turkey
+Please enter the description for the new item lean
+Please enter the quantity of the items purchased 5
+Please enter the price for the new item 8
+             MENU             
+     a - Add item to cart     
+  r - Remove item from cart   
+   c - Change item quantity   
+i - Output items' descriptions
+   o - Output shopping cart   
+           q - Quit           
+       Choose an option       
+o
+[H[2J[3JMichael P's Shopping Cart - Jan 24 2024
+Number of Items: 7
+Ham 2 @ $10.00 = $20.00
+Turkey 5 @ $8.00 = $40.00
+Total: $60.00
+             MENU             
+     a - Add item to cart     
+  r - Remove item from cart   
+   c - Change item quantity   
+i - Output items' descriptions
+   o - Output shopping cart   
+           q - Quit           
+       Choose an option       
+i
+[H[2J[3JMichael P's Shopping Cart - Jan 24 2024
+Item Descriptions
+Ham: fresh
+Turkey: lean
+             MENU             
+     a - Add item to cart     
+  r - Remove item from cart   
+   c - Change item quantity   
+i - Output items' descriptions
+   o - Output shopping cart   
+           q - Quit           
+       Choose an option       
+p
+[H[2J[3JSorry, the input p is not a valid option
+             MENU             
+     a - Add item to cart     
+  r - Remove item from cart   
+   c - Change item quantity   
+i - Output items' descriptions
+   o - Output shopping cart   
+           q - Quit           
+       Choose an option       
+r
+[H[2J[3JEnter the name of the item you would like to remove steak
+steak not found in cart. Nothing removed.
+             MENU             
+     a - Add item to cart     
+  r - Remove item from cart   
+   c - Change item quantity   
+i - Output items' descriptions
+   o - Output shopping cart   
+           q - Quit           
+       Choose an option       
+r
+[H[2J[3JEnter the name of the item you would like to remove turkey
+turkey not found in cart. Nothing removed.
+             MENU             
+     a - Add item to cart     
+  r - Remove item from cart   
+   c - Change item quantity   
+i - Output items' descriptions
+   o - Output shopping cart   
+           q - Quit           
+       Choose an option       
+o
+[H[2J[3JMichael P's Shopping Cart - Jan 24 2024
+Number of Items: 7
+Ham 2 @ $10.00 = $20.00
+Turkey 5 @ $8.00 = $40.00
+Total: $60.00
+             MENU             
+     a - Add item to cart     
+  r - Remove item from cart   
+   c - Change item quantity   
+i - Output items' descriptions
+   o - Output shopping cart   
+           q - Quit           
+       Choose an option       
+r
+[H[2J[3JEnter the name of the item you would like to remove Turkey
+             MENU             
+     a - Add item to cart     
+  r - Remove item from cart   
+   c - Change item quantity   
+i - Output items' descriptions
+   o - Output shopping cart   
+           q - Quit           
+       Choose an option       
+o
+[H[2J[3JMichael P's Shopping Cart - Jan 24 2024
+Number of Items: 2
+Ham 2 @ $10.00 = $20.00
+Total: $20.00
+             MENU             
+     a - Add item to cart     
+  r - Remove item from cart   
+   c - Change item quantity   
+i - Output items' descriptions
+   o - Output shopping cart   
+           q - Quit           
+       Choose an option       
+c
+[H[2J[3JEnter the name of the item you would like to change the quantity Ham
+Please enter the new quantity15
+             MENU             
+     a - Add item to cart     
+  r - Remove item from cart   
+   c - Change item quantity   
+i - Output items' descriptions
+   o - Output shopping cart   
+           q - Quit           
+       Choose an option       
+o
+[H[2J[3JMichael P's Shopping Cart - Jan 24 2024
+Number of Items: 15
+Ham 15 @ $10.00 = $150.00
+Total: $150.00
+             MENU             
+     a - Add item to cart     
+  r - Remove item from cart   
+   c - Change item quantity   
+i - Output items' descriptions
+   o - Output shopping cart   
+           q - Quit           
+       Choose an option       
+d
+[H[2J[3JSorry, the input d is not a valid option
+             MENU             
+     a - Add item to cart     
+  r - Remove item from cart   
+   c - Change item quantity   
+i - Output items' descriptions
+   o - Output shopping cart   
+           q - Quit           
+       Choose an option       
+i
+[H[2J[3JMichael P's Shopping Cart - Jan 24 2024
+Item Descriptions
+Ham: fresh
+             MENU             
+     a - Add item to cart     
+  r - Remove item from cart   
+   c - Change item quantity   
+i - Output items' descriptions
+   o - Output shopping cart   
+           q - Quit           
+       Choose an option       
+q
+[H[2J[3J[1m[7m%[27m[1m[0m                                                                                            ]7;file://MacBook-Pro.local/Users/mpresley84/Desktop/CSC500/Module_8[0m[27m[24m[J(base) mpresley84@MacBook-Pro Module_8 % [K[?2004heexit[?2004l
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+Deleting expired sessions...none found.
+
+Script done on Tue Jan  7 21:48:04 2025
